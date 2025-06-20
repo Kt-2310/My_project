@@ -8,7 +8,7 @@
 }
 header{
   height: 40px;
-  background-color: peachpuff;
+  background-color: white;
   display: flex;
   justify-content: space-between;
   align-items: center;
