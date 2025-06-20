@@ -102,3 +102,34 @@ span{
     justify-content: center;
     padding: 2px;
 }
+
+
+.banner_img{
+  width: 100%;
+}
+.banner_container{
+  margin-top: 20px;
+  margin-bottom: 0px;
+
+}
+
+.category_heading{
+  
+  text-transform: uppercase;
+    color: #3e4152;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    margin: 25px;
+    margin-left: 15px;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
+.category_items{
+  display: flex;
+  flex-wrap: wrap;
+}
+.sale_item{
+  width: 160px;
+  }
