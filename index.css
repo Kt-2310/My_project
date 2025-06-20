@@ -33,6 +33,10 @@ nav a sup{
   letter-spacing: 0.3 px;
   display: flex;
   justify-content: center;
+  padding: 10px 10px 10px 10px;
+}
+.nav_bar a:hover {
+  border-bottom: 2px solid red;
 }
 .nav_bar{
   width: 600px;
