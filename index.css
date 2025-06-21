@@ -106,7 +106,7 @@ span{
 
 
 .banner_img{
-  width: 100px;
+  width: 100%;
 }
 .banner_container{
   margin-top: 20px;
@@ -128,7 +128,9 @@ span{
     align-items: center;
 }
 .category_items{
+
   display: flex;
+  flex-wrap: wrap;
 }
 
 .sale_item{
