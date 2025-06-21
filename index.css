@@ -136,11 +136,11 @@ margin-left: 3%;
   margin-right: 10px;
 }
 
-. category_items2{
-margin-left: 3%;
+.category_items2 {
+  margin-left: 3%;
   display: flex;
   flex-wrap: wrap;
-  margin-right: 10px
+  margin-right: 10px;
 }
 
 .sale_item{
