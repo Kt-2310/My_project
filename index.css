@@ -132,20 +132,18 @@ span{
 .category_items{
   display: flex;
   flex-wrap: wrap;
-  margin: 10px;
+  margin-right: 10px;
   justify-content: space-evenly;
 }
-
-.category_items2 {
-  display: flex;
+.category_items1{
+display: flex;
   flex-wrap: wrap;
-  margin: 10px;
+margin-left: 10px;
 justify-content: space-evenly;
-}
 }
 
 .sale_item{
-  width: 250px;
+  width: 150px;
   }
 
 
