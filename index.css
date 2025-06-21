@@ -130,13 +130,13 @@ span{
     align-items: center;
 }
 .category_items{
-margin-left: 29px;
+margin-left: 27px;
   display: flex;
   flex-wrap: wrap;
 }
 
 .sale_item{
-  width: 148px;
+  width: 150px;
   }
 
 
