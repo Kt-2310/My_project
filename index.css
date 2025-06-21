@@ -172,12 +172,12 @@ margin-left: 27px;
     text-align: end;
     padding: 15px;
 }
-.footer_column_a{
+.footer_column_b{
     display: flex;
     flex-direction: column;
     margin-left: 22px;
 }
-.footer_column_a a {
+.footer_column_b a {
     color: #696b79;
     font-size: 15px;
     text-decoration: none;
