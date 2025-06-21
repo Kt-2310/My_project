@@ -131,9 +131,7 @@ span{
   display: flex;
   flex-wrap: wrap;
 }
-.myntra_offer1{
-  width: 160px;
-  }
-.myntra_category1{
+
+.sale_item{
   width: 160px;
   }
