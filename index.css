@@ -13,7 +13,7 @@ header{
   justify-content: space-between;
   align-items: center;
   box-sizing: border-box;
-width: 1em;
+
 }
 .logo_container {
     margin-left: 3%;
@@ -106,7 +106,7 @@ span{
 
 
 .banner_img{
-  width: 1 em;
+  width: 100px;
 }
 .banner_container{
   margin-top: 20px;
