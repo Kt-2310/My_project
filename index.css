@@ -133,6 +133,7 @@ span{
   flex-wrap: wrap;
 margin-left: 20px;
 margin-right: 0px;
+align-content: space-evenly;
 }
 
 .sale_item{
