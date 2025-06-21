@@ -130,9 +130,10 @@ span{
     align-items: center;
 }
 .category_items{
-margin-left: 27px;
+margin-left: 3%;
   display: flex;
   flex-wrap: wrap;
+  margin-right: 10px;
 }
 
 .sale_item{
