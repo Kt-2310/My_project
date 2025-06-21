@@ -130,13 +130,13 @@ span{
 .category_items{
 
   display: flex;
-  flex-wrap: wrap;
-margin-left: 50px;
+flex-wrap: wrap;
+ 
 }
 
 .sale_item{
   width: 160px;
-   display: flex;
+  
   }
 
 
