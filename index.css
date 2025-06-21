@@ -135,6 +135,8 @@ span{
 
 .sale_item{
   width: 160px;
+   display: flex;
+  align-content: space-evenly;
   }
 
 
