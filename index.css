@@ -130,12 +130,14 @@ span{
     align-items: center;
 }
 .category_items{
+  margin-left: 3%;
   display: flex;
   flex-wrap: wrap;
   margin-right: 10px;
 }
 
 .category_items2 {
+  margin-left: 3%;
   display: flex;
   flex-wrap: wrap;
   margin-right: 10px;
