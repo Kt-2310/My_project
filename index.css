@@ -133,16 +133,19 @@ span{
   display: flex;
   flex-wrap: wrap;
   margin: 10px;
+  justify-content: space-evenly;
 }
 
 .category_items2 {
   display: flex;
   flex-wrap: wrap;
   margin: 10px;
+justify-content: space-evenly;
+}
 }
 
 .sale_item{
-  width: 150px;
+  width: 250px;
   }
 
 
