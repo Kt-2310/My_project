@@ -13,7 +13,7 @@ header{
   justify-content: space-between;
   align-items: center;
   box-sizing: border-box;
-width: 100%;
+width: 1em;
 }
 .logo_container {
     margin-left: 3%;
@@ -106,7 +106,7 @@ span{
 
 
 .banner_img{
-  width: 100%;
+  width: 1 em;
 }
 .banner_container{
   margin-top: 20px;
@@ -129,7 +129,6 @@ span{
 }
 .category_items{
   display: flex;
-  flex-wrap: wrap;
 }
 
 .sale_item{
