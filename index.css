@@ -251,7 +251,7 @@ span {
 .profile-dropdown {
   min-width: 200px;
   right: 0;
-  left: auto; /* Override default positioning to align to the right */
+  left: auto; /* Overridedefault positioning to align to the right */
   top: 100%; /* Position below the Profile button */
 }
 
