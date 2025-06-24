@@ -38,9 +38,9 @@ nav a sup{
   justify-content: center;
   padding: 10px 10px 10px 10px;
 }
-.nav_bar a:hover {
+/*.nav_bar a:hover {
   border-bottom: 2px solid red;
-}
+}*/
 
 
 .nav_bar{
@@ -201,7 +201,7 @@ justify-content: space-evenly;
   border: 1px solid #ddd;
 }
 
-.dropdown:click .dropdown-content {
+.dropdown:hover .dropdown-content {
   display: block;
 }
 
