@@ -190,7 +190,7 @@ justify-content: space-evenly;
   display: inline-block;
 }
 
-.dropdown-content {
+/*.dropdown-content {
   display: none;
   position: absolute;
   background-color: #fff;
@@ -202,6 +202,20 @@ justify-content: space-evenly;
 }
 
 .dropdown:active.dropdown-content {
+  display: block;
+}*/
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 600px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  z-index: 1;
+  padding: 10px 0;
+  border: 1px solid #ddd;
+}
+
+.dropdown.active .dropdown-content {
   display: block;
 }
 
