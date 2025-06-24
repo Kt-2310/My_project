@@ -38,9 +38,9 @@ nav a sup{
   justify-content: center;
   padding: 10px 10px 10px 10px;
 }
-/*.nav_bar a:hover {
+.nav_bar a:hover {
   border-bottom: 2px solid red;
-}*/
+}
 
 
 .nav_bar{
@@ -201,7 +201,7 @@ justify-content: space-evenly;
   border: 1px solid #ddd;
 }
 
-.dropdown:hover .dropdown-content {
+.dropdown:active.dropdown-content {
   display: block;
 }
 
@@ -234,7 +234,7 @@ justify-content: space-evenly;
   color: #696e79;
 }
 
-.dropdown-column ul li a:hover {
+.dropdown-column ul li a:active {
   color: #007bff;
   background-color: #f5f5f6;
 }
