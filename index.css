@@ -201,7 +201,7 @@ justify-content: space-evenly;
   border: 1px solid #ddd;
 }
 
-.dropdown:hover .dropdown-content {
+.dropdown:click .dropdown-content {
   display: block;
 }
 
