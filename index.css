@@ -41,6 +41,34 @@ nav a sup{
 .nav_bar a:hover {
   border-bottom: 2px solid red;
 }
+
+.dropdown {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            min-width: 200px;
+            display: none;
+            z-index: 1;
+        }
+        .nav_bar li:hover .dropdown {
+            display: block;
+        }
+        .dropdown ul {
+            list-style: none;
+        }
+        .dropdown ul li {
+            padding: 5px 10px;
+        }
+        .dropdown ul li a {
+            display: block;
+            color: #000;
+            font-weight: normal;
+        }
+        .dropdown ul li a:hover {
+            background-color: #f5f5f5;
+        }
 .nav_bar{
   width: 600px;
   padding: 8px;
