@@ -42,7 +42,25 @@ nav a sup{
   border-bottom: 2px solid red;
 }
 
-.dropdown {
+..nav-links {
+            display: flex;
+            list-style: none;
+            margin-left: 20px;
+        }
+        .nav-links li {
+            position: relative;
+            margin-right: 20px;
+        }
+        .nav-links a {
+            text-decoration: none;
+            color: #000;
+            font-weight: bold;
+            padding: 5px 10px;
+        }
+        .nav-links a:hover {
+            color: #007bff;
+        }
+        .dropdown {
             position: absolute;
             top: 100%;
             left: 0;
@@ -52,7 +70,7 @@ nav a sup{
             display: none;
             z-index: 1;
         }
-        .nav_bar li:hover .dropdown {
+        .nav-links li:hover .dropdown {
             display: block;
         }
         .dropdown ul {
